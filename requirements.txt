@@ -24,7 +24,7 @@ mccabe==0.6.1
 mysql-connector-python==8.0.17
 mysqlclient==1.4.4
 openpyxl==3.0.0
-Pillow==6.2.1
+Pillow==9.0.0
 py-session==0.1.1
 pylint==2.4.3
 pylint-flask==0.6
